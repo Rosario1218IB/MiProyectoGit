@@ -1,0 +1,6 @@
+H:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\FuncionConRetornoConParametros\Atributos\Atributos\bin\Debug\Atributos.exe.config
+H:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\FuncionConRetornoConParametros\Atributos\Atributos\bin\Debug\Atributos.exe
+H:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\FuncionConRetornoConParametros\Atributos\Atributos\bin\Debug\Atributos.pdb
+H:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\FuncionConRetornoConParametros\Atributos\Atributos\obj\Debug\Atributos.csprojResolveAssemblyReference.cache
+H:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\FuncionConRetornoConParametros\Atributos\Atributos\obj\Debug\Atributos.exe
+H:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\FuncionConRetornoConParametros\Atributos\Atributos\obj\Debug\Atributos.pdb

@@ -1,0 +1,10 @@
+C:\Users\SOPORTE\Desktop\Rosario_ADSI-2020\InstructorJesusDavidCalderon\Actividades\OperadoresLogicos\Operadores_Logicos\Operadores_Logicos\bin\Debug\Operadores_Logicos.exe.config
+F:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\OperadoresLogicos\Operadores_Logicos\Operadores_Logicos\bin\Debug\Operadores_Logicos.exe.config
+F:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\OperadoresLogicos\Operadores_Logicos\Operadores_Logicos\bin\Debug\Operadores_Logicos.exe
+F:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\OperadoresLogicos\Operadores_Logicos\Operadores_Logicos\bin\Debug\Operadores_Logicos.pdb
+F:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\OperadoresLogicos\Operadores_Logicos\Operadores_Logicos\obj\Debug\Operadores_Logicos.csprojResolveAssemblyReference.cache
+F:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\OperadoresLogicos\Operadores_Logicos\Operadores_Logicos\obj\Debug\Operadores_Logicos.exe
+F:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\OperadoresLogicos\Operadores_Logicos\Operadores_Logicos\obj\Debug\Operadores_Logicos.pdb
+H:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\OperadoresLogicos\Operadores_Logicos\Operadores_Logicos\bin\Debug\Operadores_Logicos.exe.config
+H:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\OperadoresLogicos\Operadores_Logicos\Operadores_Logicos\obj\Debug\Operadores_Logicos.exe
+H:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\OperadoresLogicos\Operadores_Logicos\Operadores_Logicos\obj\Debug\Operadores_Logicos.pdb
